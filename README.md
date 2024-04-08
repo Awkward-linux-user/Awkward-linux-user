@@ -1,0 +1,4 @@
+- Hi, I’m @Awkward-linux-user
+-  I’m interested in Linux (if you can't tell by the name) and cyber security
+-  I’m currently learning how to create a linux distro
+-  I’m looking to collaborate on something, not sure what yet
